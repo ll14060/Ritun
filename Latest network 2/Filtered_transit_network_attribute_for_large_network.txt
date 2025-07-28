@@ -1,0 +1,2 @@
+This is the transit network attribute table to include only the nodes in the 'Transit_Network_based_on_Jake_Network.csv' file.
+Includes coordinates for the transit nodes. 

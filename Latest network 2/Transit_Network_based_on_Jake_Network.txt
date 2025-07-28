@@ -1,0 +1,2 @@
+This is the subset of Jake's full network, exclusive for our large network. Common nodes between our large area transit network and 
+Jake's full network have been found. Then based on these nodes the transit links from Jake's network have been taken out.

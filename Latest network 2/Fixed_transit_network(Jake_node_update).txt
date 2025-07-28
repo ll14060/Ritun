@@ -1,0 +1,6 @@
+Here the the node numbers of 'Transit_Network_based_on_Jake_Network.csv' file have been changed to be consecutive with 
+microtransit nodes and walking network. 
+
+Micro transit nodes: 0 to 16545. 
+Walking network nodes: 16546 to 33086. 
+Fixed transit nodes: 33090 to 34913.
